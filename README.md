@@ -1,7 +1,5 @@
 # algorithms-and-data-structures
 
-![alt text](https://www.google.fr/search?q=agh&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiHuOyKhILnAhWKposKHUeNAf8Q_AUoAnoECA0QBA&biw=1745&bih=852#imgrc=7GaeavGJgykBrM: "Logo Title Text 1")
-
 In this repository i will mainly put all of my third semester projects from Algorithms and Data Structures course at AGH University of Science and Technology however i will add content which is off the course.
 
 All projects are written in **C++** programming language.
